@@ -37,3 +37,7 @@ nav .animation{
     border-radius: 8px;
     transition: all 0.5s ease 0s;
 }
+
+nav a:nth-child(1){
+    width: 100px;
+}
