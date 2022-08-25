@@ -64,3 +64,12 @@ nav a:nth-child(3):hover~.animation{
     width: 100px;
     left: 210px;
 }
+
+nav a:nth-child(4){
+    width: 160px;
+}
+
+nav a:nth-child(4):hover~.animation{
+    width: 160px;
+    left: 310px;
+}
